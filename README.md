@@ -1,4 +1,5 @@
 ## Hi there, I'm Kanwal! 👋
+<ksingh1@infoblox.com>
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on *Distributed Systems and Big Data*. I enjoy building impactful software and am devoted to open source community.
 
