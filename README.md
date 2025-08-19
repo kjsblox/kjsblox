@@ -24,10 +24,6 @@ Feel free to browse through my repositories, and don’t hesitate to connect wit
 
 High performant system to tag DNS data. Written in Go.
 
-#### S3 PrivateLink
-
-[One of critical launches I have lead](https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-now-available/)
-
 📈 GitHub Stats
 
 🤝 Let's Connect
